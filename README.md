@@ -1,4 +1,15 @@
-var wordsList = [];
+
+
+
+
+<html>
+  <head>
+    <title>Dictionary Attack Detector</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
+    <link href="dictionary-attack.css" rel="stylesheet" />
+    <script src="dictionary-attack.js" type="var wordsList = [];
 
 function init() {
   // Load the words from the dictionary text file to wordsList
@@ -13,19 +24,10 @@ function init() {
 window.onload = init;
 
 /* ADD YOUR CODE BELOW */
- 
+
 function checkPassword() {
 
-}
-
-<html>
-  <head>
-    <title>Dictionary Attack Detector</title>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" />
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-    <link rel='shortcut icon' type='image/x-icon' href='favicon.ico' />
-    <link href="dictionary-attack.css" rel="stylesheet" />
-    <script src="dictionary-attack.js" type="text/javascript"></script>
+}"></script>
   </head>
   <body>
     <div>
